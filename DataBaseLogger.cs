@@ -1,8 +1,6 @@
-using ArbreSoft.Data.Models;
-using ArbreSoft.Data.Repositories;
-
 namespace ArbreSoft.Logging
 {
+    // TODO: implement as independet class (cs from configuration?)
     public class DataBaseLogger : Logger
     {
         // private readonly ICrudRepository repository;

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ArbreSoft.Utils.Loggers
+namespace ArbreSoft.Logging
 {
     public class CompositeLogger : Logger
     {
